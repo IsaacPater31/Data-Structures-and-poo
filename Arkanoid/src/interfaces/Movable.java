@@ -1,0 +1,8 @@
+//ISAAC DAVID PATERNINA NOBLE 0222220022
+//JESUS ALBERTO OSORIO GÓMEZ 0222220048
+//JOSE FELIX BUSTAMANTE SOTO 0222220254
+package interfaces;
+
+public interface Movable{
+    public void move();
+}
